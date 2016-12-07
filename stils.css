@@ -1,0 +1,61 @@
+.navbar-inverse, .navbar-default {
+    background-color: #CD853F;
+    border-color: #CD853F;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: #000000;
+}
+
+.navbar-text p {
+	color: #000000;
+}
+
+li a:hover {
+	font-size: 20px;
+}
+
+body {
+    margin-bottom: 100px;
+    background-image: url("http://www.walldevil.com/wallpapers/a80/wallpaper-scenic-game.jpg");
+}
+
+.fonakrasa {
+    background-color:#eee;
+    border-radius:6px;
+    margin-left: 0px;
+    margin-right:0px;
+    padding: 10px;
+}
+
+img {
+	margin:5px;
+}
+
+.jumbotron {
+	background: rgba(192, 192, 192, 0.4); 
+}
+
+.fonakrasa {
+	background: rgba(192, 192, 192, 0.4);
+}
+
+p {
+	color: #000000;
+}
+
+select {
+	margin-bottom: 10px;
+}
+
+.navbar-right {
+    margin-left: 20px;
+}
+
+.highlighted {
+    -webkit-box-shadow: 0 0 8px #FFD700;
+    -moz-box-shadow: 0 0 8px #FFD700;
+    box-shadow: 0 0 8px #FFD700;
+    cursor:pointer;
+}
+
